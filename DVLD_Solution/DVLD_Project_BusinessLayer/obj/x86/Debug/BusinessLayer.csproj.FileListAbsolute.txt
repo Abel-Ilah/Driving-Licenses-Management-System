@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\BusinessLayer\bin\x86\Debug\BusinessLayer.dll
+C:\Users\hp\source\repos\BusinessLayer\bin\x86\Debug\BusinessLayer.pdb
+C:\Users\hp\source\repos\BusinessLayer\bin\x86\Debug\PeopleDataAccessLayer.dll
+C:\Users\hp\source\repos\BusinessLayer\bin\x86\Debug\PeopleDataAccessLayer.pdb
+C:\Users\hp\source\repos\BusinessLayer\obj\x86\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\BusinessLayer\obj\x86\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BusinessLayer\obj\x86\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\BusinessLayer\obj\x86\Debug\BusinessLayer.dll
+C:\Users\hp\source\repos\BusinessLayer\obj\x86\Debug\BusinessLayer.pdb

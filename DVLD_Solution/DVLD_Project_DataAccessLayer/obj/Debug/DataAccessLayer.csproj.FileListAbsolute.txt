@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.dll
+C:\Users\hp\source\repos\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.pdb
+C:\Users\hp\source\repos\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.Properties.Resources.resources
+C:\Users\hp\source\repos\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.dll
+C:\Users\hp\source\repos\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.pdb
+D:\myprojects\projects\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.dll
+D:\myprojects\projects\PeopleDataAccessLayer\bin\Debug\PeopleDataAccessLayer.pdb
+D:\myprojects\projects\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\myprojects\projects\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.Properties.Resources.resources
+D:\myprojects\projects\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\myprojects\projects\PeopleDataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\myprojects\projects\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.dll
+D:\myprojects\projects\PeopleDataAccessLayer\obj\Debug\PeopleDataAccessLayer.pdb

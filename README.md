@@ -4,19 +4,33 @@ The Driving License Management System (DVLD) is a Windows Forms-based applicatio
 ==> Key Features: ---------
 
 1- First-time License Issuance: Allows users to apply for their first driving license, with support for multiple vehicle categories such as motorcycles, cars, commercial vehicles, and more.
+
 2- License Renewal & Replacement: Provides services for renewing expired licenses or replacing lost or damaged ones.
+
 3- Re-examinations: Enables applicants to schedule re-tests (vision, theoretical, and practical exams) if they fail any part of the application process.
+
 4- International License Issuance: Supports issuing international driving licenses for eligible users with valid domestic licenses.
+
 5- User Management: Admins can manage user accounts, assign roles, and track all transactions and activities related to driving licenses.
+
 6- Test Management: Manages the scheduling, tracking, and results of required tests (vision, theoretical, and practical) for applicants.
-7- Data Integrity and Security: Ensures secure storage and management of applicant and license data, preventing duplicates and maintaining accurate records.
-Services Offered
+
+7- Data Integrity and Security: Ensures secure storage and management of applicant and license data, preventing 
+duplicates and maintaining accurate records.
+
+==> Services Offered : --------
 * License Issuance: Application for new driving licenses for different categories (motorcycle, car, commercial, etc.), with fee management.
+  
 * Re-examination: Ability to re-schedule tests for applicants who fail their initial examination.
+
 * License Renewal: Service for renewing expired driving licenses, including necessary health checks (vision test).
+  
 * Replacement of Lost/Damaged Licenses: Facilitates the issuance of replacement licenses in case of loss or damage.
+  
 * International License: Issues international driving permits for users with valid local driving licenses.
-* Suspension and Release Management: Manages the suspension of licenses due to legal issues and the process of releasing a license once fines or issues are resolved.
+  
+* Suspension and Release Management: Manages the suspension of licenses due to legal issues and the process of 
+releasing a license once fines or issues are resolved.
 
 ==> System Workflow : --------
 
@@ -28,18 +42,18 @@ Services Offered
   
 ==> Technology Stack : ---------
 
-Platform: Windows Forms
-Programming Language: C#
-data access technology: ADO.net
-Database: (Specify your database, e.g., SQL Server, MySQL, SQLite)
-Libraries/Frameworks: (List any major libraries or frameworks used)
+* Platform: Windows Forms
+* Programming Language: C#
+* data access technology: ADO.net
+* Database: (Specify your database, e.g., SQL Server, MySQL, SQLite)
+* Libraries/Frameworks: (List any major libraries or frameworks used)
 
 ==>Installation : ---------
 
-Clone or download the repository.
-Restor the Database 
-Open the solution file (.sln) in Visual Studio.
-Ensure the required database is set up .
-Build and run the application.
+* Clone or download the repository.
+* Restor the Database 
+* Open the solution file (.sln) in Visual Studio.
+* Ensure the required database is set up .
+* Build and run the application.
 
 ==> Login Info :   UsreName : Abdoux  |  Password : abdoux

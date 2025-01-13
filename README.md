@@ -45,8 +45,8 @@ releasing a license once fines or issues are resolved.
 * Platform: Windows Forms
 * Programming Language: C#
 * data access technology: ADO.net
-* Database: (Specify your database, e.g., SQL Server, MySQL, SQLite)
-* Libraries/Frameworks: (List any major libraries or frameworks used)
+* Database: (SQL Server, Files)
+* Libraries/Frameworks: (.Net Framework)
 
 ==>Installation : ---------
 

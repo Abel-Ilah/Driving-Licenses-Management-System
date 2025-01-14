@@ -51,7 +51,7 @@ releasing a license once fines or issues are resolved.
 ==>Installation : ---------
 
 * Clone or download the repository.
-* Restor the Database 
+* Restor the Database with Name 'DVLD' to avoid the ConnectionString Problems
 * Open the solution file (.sln) in Visual Studio.
 * Ensure the required database is set up .
 * Build and run the application.
